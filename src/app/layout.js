@@ -30,7 +30,7 @@ export default function RootLayout({ children }) {
         <meta property="og:title" content="John Doe - Portfolio" />
         <meta property="og:description" content="Showcasing the projects and skills of John Doe, a passionate developer specializing in web development and modern technologies." />
         <meta property="og:image" content="/Jhon.jpg" />
-        <meta property="og:url" content="https://your-portfolio-url.com" />
+        <meta property="og:url" content="https://jhon-doe-portfolio.vercel.app/" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="John Doe - Portfolio" />
         <meta name="twitter:description" content="Showcasing the projects and skills of John Doe, a passionate developer specializing in web development and modern technologies." />

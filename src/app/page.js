@@ -6,28 +6,28 @@ export default function Home() {
     <main>
       <nav className="bg-gray-800 py-2">
         <ol className="flex flex-row gap-x-3 overflow-x-auto whitespace-nowrap  px-4 md:px-6 lg:px-8 xl:px-10 currsor-pointer">
-          <li href="#" className="text-white hover:text-blue-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
+          <li href="#" className="text-white hover:text-orange-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
             Home
           </li>
-          <li href="#about" className="text-white hover:text-blue-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
+          <li href="#about" className="text-white hover:text-orange-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
             About
           </li>
-          <li href="#contact" className="text-white hover:text-blue-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
+          <li href="#contact" className="text-white hover:text-orange-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
             Contact
           </li>
-          <li href="#servives" className="text-white hover:text-blue-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
+          <li href="#servives" className="text-white hover:text-orange-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
             Services
           </li>
-          <li href="#portfolio" className="text-white hover:text-blue-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
+          <li href="#portfolio" className="text-white hover:text-orange-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
             Portfolio
           </li>
-          <li href="#blog" className="text-white hover:text-blue-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
+          <li href="#blog" className="text-white hover:text-orange-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
             Blog
           </li>
-          <li href="#testimonials" className="text-white hover:text-blue-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
+          <li href="#testimonials" className="text-white hover:text-orange-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
             Testimonials
           </li>
-          <li href="#faq" className="text-white hover:text-blue-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
+          <li href="#faq" className="text-white hover:text-orange-600 text-sm md:text-base py-2 px-3 md:px-4 transition-colors duration-200">
             FAQ
           </li>
         </ol>
